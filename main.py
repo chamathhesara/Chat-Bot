@@ -1,4 +1,3 @@
-import dp as dp
 import telegram.ext
 from telegram.ext import updater
 
